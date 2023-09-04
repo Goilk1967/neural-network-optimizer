@@ -4,3 +4,4 @@ Fixed Activity at 2023-09-01T13:15:00: Style: improve code readability and forma
 Fixed Activity at 2023-09-01T15:24:00: Optimize: data loading strategy
 Fixed Activity at 2023-09-01T11:28:00: Update: internal model parameters
 Fixed Activity at 2023-09-04T10:59:00: Docs: update API documentation and examples
+Fixed Activity at 2023-09-04T19:40:00: Optimize: data loading strategy
