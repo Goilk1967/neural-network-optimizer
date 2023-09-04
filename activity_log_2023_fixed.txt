@@ -3,3 +3,4 @@ Fixed Activity at 2023-09-01T15:08:00: Refactor: optimize performance in core mo
 Fixed Activity at 2023-09-01T13:15:00: Style: improve code readability and formatting
 Fixed Activity at 2023-09-01T15:24:00: Optimize: data loading strategy
 Fixed Activity at 2023-09-01T11:28:00: Update: internal model parameters
+Fixed Activity at 2023-09-04T10:59:00: Docs: update API documentation and examples
