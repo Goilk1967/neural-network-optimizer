@@ -86,3 +86,4 @@ Fixed Activity at 2023-09-27T19:43:00: Docs: update API documentation and exampl
 Fixed Activity at 2023-09-27T20:07:00: Update: internal model parameters
 Fixed Activity at 2023-09-27T09:01:00: Docs: update API documentation and examples
 Fixed Activity at 2023-09-27T18:07:00: Docs: update API documentation and examples
+Fixed Activity at 2023-09-27T21:52:00: Refine: inference logic for edge devices
