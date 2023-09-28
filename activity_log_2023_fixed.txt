@@ -90,3 +90,4 @@ Fixed Activity at 2023-09-27T21:52:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-09-28T20:19:00: Refactor: optimize performance in core module
 Fixed Activity at 2023-09-28T21:32:00: Style: improve code readability and formatting
 Fixed Activity at 2023-09-28T16:15:00: Style: improve code readability and formatting
+Fixed Activity at 2023-09-28T15:15:00: Test: add unit tests for edge cases
