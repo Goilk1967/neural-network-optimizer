@@ -95,3 +95,4 @@ Fixed Activity at 2023-09-28T19:55:00: Refactor: simplify data transformation pi
 Fixed Activity at 2023-09-28T14:44:00: Update: internal model parameters
 Fixed Activity at 2023-09-28T17:32:00: Improve: logging and monitoring system
 Fixed Activity at 2023-09-28T18:01:00: Improve: logging and monitoring system
+Fixed Activity at 2023-09-29T09:34:00: Refine: inference logic for edge devices
