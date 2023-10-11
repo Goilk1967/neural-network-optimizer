@@ -134,3 +134,4 @@ Fixed Activity at 2023-10-10T20:10:00: Style: improve code readability and forma
 Fixed Activity at 2023-10-10T09:02:00: Optimize: data loading strategy
 Fixed Activity at 2023-10-10T20:43:00: Refactor: optimize performance in core module
 Fixed Activity at 2023-10-10T21:48:00: Refactor: optimize performance in core module
+Fixed Activity at 2023-10-11T16:39:00: Test: add unit tests for edge cases
