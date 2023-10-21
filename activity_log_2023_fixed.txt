@@ -170,3 +170,4 @@ Fixed Activity at 2023-10-19T15:00:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2023-10-19T19:17:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-10-20T17:21:00: Update: internal model parameters
 Fixed Activity at 2023-10-20T14:12:00: Refactor: simplify data transformation pipeline
+Fixed Activity at 2023-10-20T20:09:00: Refine: inference logic for edge devices
