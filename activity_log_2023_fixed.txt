@@ -173,3 +173,4 @@ Fixed Activity at 2023-10-20T14:12:00: Refactor: simplify data transformation pi
 Fixed Activity at 2023-10-20T20:09:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-10-20T13:21:00: Test: add unit tests for edge cases
 Fixed Activity at 2023-10-20T10:58:00: Style: improve code readability and formatting
+Fixed Activity at 2023-10-23T15:48:00: Fix: resolve memory leak in inference engine
