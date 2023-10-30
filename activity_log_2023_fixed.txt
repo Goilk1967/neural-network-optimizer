@@ -194,3 +194,4 @@ Fixed Activity at 2023-10-27T17:24:00: Feature: add support for distributed proc
 Fixed Activity at 2023-10-27T15:09:00: Optimize: data loading strategy
 Fixed Activity at 2023-10-27T13:59:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2023-10-30T11:06:00: Refine: inference logic for edge devices
+Fixed Activity at 2023-10-30T09:34:00: Fix: resolve memory leak in inference engine
