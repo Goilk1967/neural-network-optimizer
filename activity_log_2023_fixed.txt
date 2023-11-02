@@ -206,3 +206,4 @@ Fixed Activity at 2023-11-01T09:02:00: Docs: update API documentation and exampl
 Fixed Activity at 2023-11-01T14:51:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-11-01T19:14:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-11-01T11:08:00: Refine: inference logic for edge devices
+Fixed Activity at 2023-11-02T17:02:00: Update: internal model parameters
