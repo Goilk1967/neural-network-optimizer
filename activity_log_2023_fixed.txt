@@ -263,3 +263,4 @@ Fixed Activity at 2023-11-22T20:26:00: Feature: add support for distributed proc
 Fixed Activity at 2023-11-22T17:28:00: Chore: update dependencies and build scripts
 Fixed Activity at 2023-11-22T17:58:00: Optimize: data loading strategy
 Fixed Activity at 2023-11-22T09:38:00: Docs: update API documentation and examples
+Fixed Activity at 2023-11-23T13:12:00: Test: add unit tests for edge cases
