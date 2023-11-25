@@ -269,3 +269,4 @@ Fixed Activity at 2023-11-23T21:58:00: Update: internal model parameters
 Fixed Activity at 2023-11-23T12:48:00: Optimize: data loading strategy
 Fixed Activity at 2023-11-24T10:19:00: Chore: update dependencies and build scripts
 Fixed Activity at 2023-11-24T16:40:00: Docs: update API documentation and examples
+Fixed Activity at 2023-11-24T21:09:00: Docs: update API documentation and examples
