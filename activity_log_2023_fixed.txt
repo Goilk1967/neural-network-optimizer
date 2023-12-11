@@ -325,3 +325,4 @@ Fixed Activity at 2023-12-08T12:07:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2023-12-11T13:08:00: Chore: update dependencies and build scripts
 Fixed Activity at 2023-12-11T09:46:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-12-11T19:47:00: Improve: logging and monitoring system
+Fixed Activity at 2023-12-11T13:06:00: Test: add unit tests for edge cases
