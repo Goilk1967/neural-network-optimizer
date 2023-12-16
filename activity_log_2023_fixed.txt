@@ -355,3 +355,4 @@ Fixed Activity at 2023-12-15T18:22:00: Style: improve code readability and forma
 Fixed Activity at 2023-12-15T15:27:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-12-15T15:41:00: Style: improve code readability and formatting
 Fixed Activity at 2023-12-15T16:35:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2023-12-15T21:46:00: Chore: update dependencies and build scripts
