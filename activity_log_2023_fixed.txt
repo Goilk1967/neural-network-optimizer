@@ -395,3 +395,4 @@ Fixed Activity at 2023-12-29T19:52:00: Docs: update API documentation and exampl
 Fixed Activity at 2023-12-29T17:46:00: Update: internal model parameters
 Fixed Activity at 2023-12-29T09:29:00: Optimize: data loading strategy
 Fixed Activity at 2023-12-29T12:00:00: Chore: update dependencies and build scripts
+Fixed Activity at 2023-12-29T10:08:00: Test: add unit tests for edge cases
