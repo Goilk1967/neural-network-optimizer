@@ -53,3 +53,4 @@ Activity at 2024-02-05T15:09:00: Feature: add support for distributed processing
 Activity at 2024-02-06T12:03:00: Docs: update API documentation and examples
 Activity at 2024-02-06T09:06:00: Docs: update API documentation and examples
 Activity at 2024-02-06T18:54:00: Chore: update dependencies and build scripts
+Activity at 2024-02-07T10:37:00: Fix: resolve memory leak in inference engine
