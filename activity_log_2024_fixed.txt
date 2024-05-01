@@ -1,2 +1,3 @@
 Fixed Activity at 2024-05-01T18:21:00: Style: improve code readability and formatting
 Fixed Activity at 2024-05-01T21:28:00: Refine: inference logic for edge devices
+Fixed Activity at 2024-05-01T09:04:00: Fix: resolve memory leak in inference engine
