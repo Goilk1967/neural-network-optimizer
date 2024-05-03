@@ -8,3 +8,4 @@ Fixed Activity at 2024-05-02T13:03:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2024-05-02T09:41:00: Style: improve code readability and formatting
 Fixed Activity at 2024-05-02T18:02:00: Style: improve code readability and formatting
 Fixed Activity at 2024-05-03T11:52:00: Refactor: simplify data transformation pipeline
+Fixed Activity at 2024-05-03T15:06:00: Fix: resolve memory leak in inference engine
