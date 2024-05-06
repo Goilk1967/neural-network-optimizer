@@ -14,3 +14,4 @@ Fixed Activity at 2024-05-03T20:16:00: Style: improve code readability and forma
 Fixed Activity at 2024-05-03T18:05:00: Update: internal model parameters
 Fixed Activity at 2024-05-03T19:18:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-05-06T10:27:00: Update: internal model parameters
+Fixed Activity at 2024-05-06T14:50:00: Refine: inference logic for edge devices
