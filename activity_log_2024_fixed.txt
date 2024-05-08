@@ -22,3 +22,4 @@ Fixed Activity at 2024-05-06T09:07:00: Style: improve code readability and forma
 Fixed Activity at 2024-05-07T12:33:00: Style: improve code readability and formatting
 Fixed Activity at 2024-05-07T19:23:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-05-07T20:47:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-05-07T21:58:00: Fix: resolve memory leak in inference engine
