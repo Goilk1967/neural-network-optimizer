@@ -28,3 +28,4 @@ Fixed Activity at 2024-05-07T16:05:00: Feature: add support for distributed proc
 Fixed Activity at 2024-05-07T14:49:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-05-07T21:25:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2024-05-08T17:27:00: Style: improve code readability and formatting
+Fixed Activity at 2024-05-08T20:57:00: Refine: inference logic for edge devices
