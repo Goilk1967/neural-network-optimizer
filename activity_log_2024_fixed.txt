@@ -39,3 +39,4 @@ Fixed Activity at 2024-05-10T12:29:00: Optimize: data loading strategy
 Fixed Activity at 2024-05-10T11:55:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-05-10T18:55:00: Docs: update API documentation and examples
 Fixed Activity at 2024-05-10T16:52:00: Docs: update API documentation and examples
+Fixed Activity at 2024-05-10T12:24:00: Fix: resolve memory leak in inference engine
