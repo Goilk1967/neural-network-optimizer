@@ -55,3 +55,4 @@ Fixed Activity at 2024-05-15T15:30:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-05-15T13:42:00: Docs: update API documentation and examples
 Fixed Activity at 2024-05-15T16:49:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-05-16T11:51:00: Refactor: simplify data transformation pipeline
+Fixed Activity at 2024-05-16T18:17:00: Test: add unit tests for edge cases
