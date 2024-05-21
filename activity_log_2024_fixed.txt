@@ -65,3 +65,4 @@ Fixed Activity at 2024-05-17T21:11:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-05-17T14:11:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-05-20T18:25:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-05-20T18:33:00: Improve: logging and monitoring system
+Fixed Activity at 2024-05-21T11:36:00: Fix: resolve memory leak in inference engine
