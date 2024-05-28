@@ -90,3 +90,4 @@ Fixed Activity at 2024-05-24T21:51:00: Refactor: simplify data transformation pi
 Fixed Activity at 2024-05-24T17:09:00: Update: internal model parameters
 Fixed Activity at 2024-05-27T09:16:00: Update: internal model parameters
 Fixed Activity at 2024-05-27T17:53:00: Update: internal model parameters
+Fixed Activity at 2024-05-27T20:44:00: Chore: update dependencies and build scripts
