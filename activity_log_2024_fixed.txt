@@ -165,3 +165,4 @@ Fixed Activity at 2024-06-20T15:53:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-06-20T19:30:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-06-21T11:57:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-06-21T18:13:00: Update: internal model parameters
+Fixed Activity at 2024-06-21T17:23:00: Fix: resolve memory leak in inference engine
