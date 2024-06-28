@@ -190,3 +190,4 @@ Fixed Activity at 2024-06-27T12:04:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-06-27T14:10:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-06-27T20:50:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-06-27T18:24:00: Style: improve code readability and formatting
+Fixed Activity at 2024-06-28T10:41:00: Refactor: optimize performance in core module
