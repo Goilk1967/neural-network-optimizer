@@ -232,3 +232,4 @@ Fixed Activity at 2024-07-11T12:28:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-07-12T14:25:00: Improve: logging and monitoring system
 Fixed Activity at 2024-07-12T18:23:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-07-12T20:12:00: Optimize: data loading strategy
+Fixed Activity at 2024-07-12T10:26:00: Fix: resolve memory leak in inference engine
