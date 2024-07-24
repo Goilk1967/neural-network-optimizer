@@ -268,3 +268,4 @@ Fixed Activity at 2024-07-23T17:43:00: Update: internal model parameters
 Fixed Activity at 2024-07-23T15:48:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-07-23T21:22:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-07-24T16:07:00: Chore: update dependencies and build scripts
+Fixed Activity at 2024-07-24T09:15:00: Refactor: optimize performance in core module
