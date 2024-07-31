@@ -293,3 +293,4 @@ Fixed Activity at 2024-07-30T17:53:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-07-30T10:34:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-07-31T16:50:00: Improve: logging and monitoring system
 Fixed Activity at 2024-07-31T21:17:00: Docs: update API documentation and examples
+Fixed Activity at 2024-07-31T16:47:00: Fix: resolve memory leak in inference engine
