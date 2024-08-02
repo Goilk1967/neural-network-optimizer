@@ -303,3 +303,4 @@ Fixed Activity at 2024-08-02T20:07:00: Refactor: optimize performance in core mo
 Fixed Activity at 2024-08-02T18:10:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-08-02T12:31:00: Docs: update API documentation and examples
 Fixed Activity at 2024-08-02T20:34:00: Refactor: optimize performance in core module
+Fixed Activity at 2024-08-02T13:29:00: Refine: inference logic for edge devices
