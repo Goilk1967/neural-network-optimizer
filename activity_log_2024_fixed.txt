@@ -332,3 +332,4 @@ Fixed Activity at 2024-08-08T16:21:00: Refactor: optimize performance in core mo
 Fixed Activity at 2024-08-09T14:41:00: Optimize: data loading strategy
 Fixed Activity at 2024-08-09T11:24:00: Optimize: data loading strategy
 Fixed Activity at 2024-08-09T14:24:00: Update: internal model parameters
+Fixed Activity at 2024-08-09T13:31:00: Test: add unit tests for edge cases
