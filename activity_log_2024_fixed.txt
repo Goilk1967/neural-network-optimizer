@@ -367,3 +367,4 @@ Fixed Activity at 2024-08-20T16:11:00: Update: internal model parameters
 Fixed Activity at 2024-08-20T10:23:00: Optimize: data loading strategy
 Fixed Activity at 2024-08-20T14:24:00: Docs: update API documentation and examples
 Fixed Activity at 2024-08-20T19:39:00: Improve: logging and monitoring system
+Fixed Activity at 2024-08-21T10:20:00: Test: add unit tests for edge cases
