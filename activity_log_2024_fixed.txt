@@ -401,3 +401,4 @@ Fixed Activity at 2024-08-29T18:29:00: Optimize: data loading strategy
 Fixed Activity at 2024-08-29T15:12:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-08-29T17:45:00: Docs: update API documentation and examples
 Fixed Activity at 2024-08-30T09:00:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-08-30T14:51:00: Refactor: optimize performance in core module
