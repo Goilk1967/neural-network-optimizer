@@ -408,3 +408,4 @@ Fixed Activity at 2024-08-30T17:45:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-08-30T10:06:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-08-30T13:12:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2024-08-30T14:13:00: Refine: inference logic for edge devices
+Fixed Activity at 2024-09-02T20:41:00: Test: add unit tests for edge cases
