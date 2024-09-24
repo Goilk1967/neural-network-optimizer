@@ -482,3 +482,4 @@ Fixed Activity at 2024-09-23T21:33:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-09-23T14:36:00: Optimize: data loading strategy
 Fixed Activity at 2024-09-23T12:09:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-09-24T14:29:00: Refactor: optimize performance in core module
+Fixed Activity at 2024-09-24T16:18:00: Docs: update API documentation and examples
