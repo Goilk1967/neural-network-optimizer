@@ -516,3 +516,4 @@ Fixed Activity at 2024-10-02T16:06:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-10-02T19:18:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-10-03T11:29:00: Docs: update API documentation and examples
 Fixed Activity at 2024-10-03T12:52:00: Test: add unit tests for edge cases
+Fixed Activity at 2024-10-03T17:24:00: Fix: resolve memory leak in inference engine
