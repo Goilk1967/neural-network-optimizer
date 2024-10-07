@@ -528,3 +528,4 @@ Fixed Activity at 2024-10-04T09:26:00: Update: internal model parameters
 Fixed Activity at 2024-10-07T18:56:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-10-07T20:19:00: Docs: update API documentation and examples
 Fixed Activity at 2024-10-07T13:15:00: Refine: inference logic for edge devices
+Fixed Activity at 2024-10-07T10:57:00: Test: add unit tests for edge cases
