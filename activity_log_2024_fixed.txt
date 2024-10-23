@@ -593,3 +593,4 @@ Fixed Activity at 2024-10-22T19:25:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-10-22T16:55:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2024-10-23T15:34:00: Update: internal model parameters
 Fixed Activity at 2024-10-23T11:50:00: Update: internal model parameters
+Fixed Activity at 2024-10-23T18:31:00: Refactor: simplify data transformation pipeline
