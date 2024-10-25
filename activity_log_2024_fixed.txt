@@ -604,3 +604,4 @@ Fixed Activity at 2024-10-24T09:27:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-10-25T09:47:00: Update: internal model parameters
 Fixed Activity at 2024-10-25T19:42:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-10-25T14:44:00: Test: add unit tests for edge cases
+Fixed Activity at 2024-10-25T16:55:00: Refactor: simplify data transformation pipeline
