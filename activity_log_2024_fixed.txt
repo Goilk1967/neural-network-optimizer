@@ -617,3 +617,4 @@ Fixed Activity at 2024-10-29T15:59:00: Docs: update API documentation and exampl
 Fixed Activity at 2024-10-29T13:56:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2024-10-29T17:08:00: Update: internal model parameters
 Fixed Activity at 2024-10-30T10:05:00: Style: improve code readability and formatting
+Fixed Activity at 2024-10-30T16:06:00: Refine: inference logic for edge devices
