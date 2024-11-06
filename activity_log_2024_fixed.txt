@@ -645,3 +645,4 @@ Fixed Activity at 2024-11-05T13:30:00: Feature: add support for distributed proc
 Fixed Activity at 2024-11-05T11:50:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2024-11-05T10:36:00: Docs: update API documentation and examples
 Fixed Activity at 2024-11-06T18:09:00: Refine: inference logic for edge devices
+Fixed Activity at 2024-11-06T17:46:00: Refactor: simplify data transformation pipeline
