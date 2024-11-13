@@ -667,3 +667,4 @@ Fixed Activity at 2024-11-11T11:28:00: Style: improve code readability and forma
 Fixed Activity at 2024-11-11T21:41:00: Update: internal model parameters
 Fixed Activity at 2024-11-11T09:11:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-11-12T12:54:00: Refine: inference logic for edge devices
+Fixed Activity at 2024-11-12T21:03:00: Docs: update API documentation and examples
