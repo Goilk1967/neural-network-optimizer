@@ -819,3 +819,4 @@ Fixed Activity at 2024-12-23T20:34:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-12-23T13:45:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-12-23T16:40:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-12-24T19:42:00: Update: internal model parameters
+Fixed Activity at 2024-12-24T21:21:00: Test: add unit tests for edge cases
