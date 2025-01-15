@@ -21,3 +21,4 @@ Activity at 2025-01-10T17:59:00: Feature: add support for distributed processing
 Activity at 2025-01-13T20:39:00: Feature: add support for distributed processing
 Activity at 2025-01-14T15:09:00: Feature: add support for distributed processing
 Activity at 2025-01-14T09:04:00: Style: improve code readability and formatting
+Activity at 2025-01-14T19:00:00: Fix: resolve memory leak in inference engine
