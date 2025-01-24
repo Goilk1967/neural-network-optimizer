@@ -90,3 +90,4 @@ Fixed Activity at 2025-01-23T17:42:00: Improve: logging and monitoring system
 Fixed Activity at 2025-01-23T13:44:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-01-23T14:21:00: Update: internal model parameters
 Fixed Activity at 2025-01-24T16:25:00: Docs: update API documentation and examples
+Fixed Activity at 2025-01-24T11:06:00: Refine: inference logic for edge devices
