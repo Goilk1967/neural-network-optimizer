@@ -93,3 +93,4 @@ Fixed Activity at 2025-01-24T16:25:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-01-24T11:06:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-01-24T17:57:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-01-24T09:54:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-01-27T18:12:00: Test: add unit tests for edge cases
