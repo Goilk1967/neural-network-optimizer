@@ -170,3 +170,4 @@ Fixed Activity at 2025-02-11T21:17:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-02-11T12:06:00: Optimize: data loading strategy
 Fixed Activity at 2025-02-12T14:07:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2025-02-12T18:47:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-02-12T14:19:00: Test: add unit tests for edge cases
