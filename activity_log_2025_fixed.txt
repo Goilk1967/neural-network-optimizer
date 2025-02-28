@@ -219,3 +219,4 @@ Fixed Activity at 2025-02-27T09:44:00: Docs: update API documentation and exampl
 Fixed Activity at 2025-02-27T10:55:00: Update: internal model parameters
 Fixed Activity at 2025-02-27T09:51:00: Optimize: data loading strategy
 Fixed Activity at 2025-02-28T19:45:00: Chore: update dependencies and build scripts
+Fixed Activity at 2025-02-28T16:04:00: Refine: inference logic for edge devices
