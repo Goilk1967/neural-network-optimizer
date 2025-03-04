@@ -232,3 +232,4 @@ Fixed Activity at 2025-03-04T19:07:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2025-03-04T18:48:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-03-04T13:47:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-03-04T15:58:00: Style: improve code readability and formatting
+Fixed Activity at 2025-03-04T18:04:00: Refactor: optimize performance in core module
