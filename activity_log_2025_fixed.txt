@@ -275,3 +275,4 @@ Fixed Activity at 2025-03-14T12:46:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-03-17T12:33:00: Optimize: data loading strategy
 Fixed Activity at 2025-03-17T17:23:00: Style: improve code readability and formatting
 Fixed Activity at 2025-03-17T18:23:00: Optimize: data loading strategy
+Fixed Activity at 2025-03-17T15:01:00: Optimize: data loading strategy
