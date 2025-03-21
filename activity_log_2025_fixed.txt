@@ -296,3 +296,4 @@ Fixed Activity at 2025-03-20T16:19:00: Style: improve code readability and forma
 Fixed Activity at 2025-03-20T12:02:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-03-21T21:17:00: Style: improve code readability and formatting
 Fixed Activity at 2025-03-21T17:21:00: Optimize: data loading strategy
+Fixed Activity at 2025-03-21T13:51:00: Refine: inference logic for edge devices
