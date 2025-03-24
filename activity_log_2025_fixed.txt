@@ -298,3 +298,4 @@ Fixed Activity at 2025-03-21T21:17:00: Style: improve code readability and forma
 Fixed Activity at 2025-03-21T17:21:00: Optimize: data loading strategy
 Fixed Activity at 2025-03-21T13:51:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-03-21T14:06:00: Docs: update API documentation and examples
+Fixed Activity at 2025-03-24T18:59:00: Test: add unit tests for edge cases
