@@ -309,3 +309,4 @@ Fixed Activity at 2025-03-26T12:33:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2025-03-26T20:13:00: Improve: logging and monitoring system
 Fixed Activity at 2025-03-26T12:30:00: Update: internal model parameters
 Fixed Activity at 2025-03-26T09:53:00: Optimize: data loading strategy
+Fixed Activity at 2025-03-26T12:18:00: Test: add unit tests for edge cases
