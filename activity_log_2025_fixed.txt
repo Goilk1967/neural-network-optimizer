@@ -305,3 +305,4 @@ Fixed Activity at 2025-03-25T15:32:00: Style: improve code readability and forma
 Fixed Activity at 2025-03-25T10:20:00: Optimize: data loading strategy
 Fixed Activity at 2025-03-25T15:33:00: Update: internal model parameters
 Fixed Activity at 2025-03-25T16:59:00: Test: add unit tests for edge cases
+Fixed Activity at 2025-03-26T12:33:00: Fix: resolve memory leak in inference engine
