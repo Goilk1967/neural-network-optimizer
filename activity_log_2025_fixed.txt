@@ -327,3 +327,4 @@ Fixed Activity at 2025-03-31T16:47:00: Update: internal model parameters
 Fixed Activity at 2025-04-01T17:34:00: Update: internal model parameters
 Fixed Activity at 2025-04-01T20:23:00: Style: improve code readability and formatting
 Fixed Activity at 2025-04-01T17:27:00: Refactor: optimize performance in core module
+Fixed Activity at 2025-04-01T19:19:00: Chore: update dependencies and build scripts
