@@ -348,3 +348,4 @@ Fixed Activity at 2025-04-04T14:01:00: Style: improve code readability and forma
 Fixed Activity at 2025-04-04T21:25:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-04-04T21:25:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-04-04T13:46:00: Style: improve code readability and formatting
+Fixed Activity at 2025-04-04T15:57:00: Test: add unit tests for edge cases
