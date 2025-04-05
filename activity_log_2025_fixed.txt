@@ -345,3 +345,4 @@ Fixed Activity at 2025-04-04T18:31:00: Feature: add support for distributed proc
 Fixed Activity at 2025-04-04T21:54:00: Optimize: data loading strategy
 Fixed Activity at 2025-04-04T13:41:00: Optimize: data loading strategy
 Fixed Activity at 2025-04-04T14:01:00: Style: improve code readability and formatting
+Fixed Activity at 2025-04-04T21:25:00: Refine: inference logic for edge devices
