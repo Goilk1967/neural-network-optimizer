@@ -352,3 +352,4 @@ Fixed Activity at 2025-04-04T15:57:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-04-04T10:03:00: Update: internal model parameters
 Fixed Activity at 2025-04-07T13:32:00: Docs: update API documentation and examples
 Fixed Activity at 2025-04-07T14:35:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2025-04-07T11:24:00: Chore: update dependencies and build scripts
