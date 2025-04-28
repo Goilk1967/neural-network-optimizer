@@ -430,3 +430,4 @@ Fixed Activity at 2025-04-25T09:32:00: Optimize: data loading strategy
 Fixed Activity at 2025-04-25T10:06:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-04-25T21:01:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-04-25T18:33:00: Style: improve code readability and formatting
+Fixed Activity at 2025-04-28T10:13:00: Chore: update dependencies and build scripts
