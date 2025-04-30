@@ -445,3 +445,4 @@ Fixed Activity at 2025-04-29T18:04:00: Update: internal model parameters
 Fixed Activity at 2025-04-29T15:46:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-04-30T10:10:00: Docs: update API documentation and examples
 Fixed Activity at 2025-04-30T19:27:00: Style: improve code readability and formatting
+Fixed Activity at 2025-04-30T14:15:00: Docs: update API documentation and examples
