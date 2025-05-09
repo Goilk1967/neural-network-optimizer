@@ -488,3 +488,4 @@ Fixed Activity at 2025-05-08T11:42:00: Improve: logging and monitoring system
 Fixed Activity at 2025-05-09T16:19:00: Optimize: data loading strategy
 Fixed Activity at 2025-05-09T09:34:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-05-09T15:36:00: Style: improve code readability and formatting
+Fixed Activity at 2025-05-09T18:20:00: Test: add unit tests for edge cases
