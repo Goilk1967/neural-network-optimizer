@@ -548,3 +548,4 @@ Fixed Activity at 2025-05-29T18:41:00: Optimize: data loading strategy
 Fixed Activity at 2025-05-29T15:02:00: Style: improve code readability and formatting
 Fixed Activity at 2025-05-29T09:38:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-05-29T13:58:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-05-29T15:09:00: Chore: update dependencies and build scripts
