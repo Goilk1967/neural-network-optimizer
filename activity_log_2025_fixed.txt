@@ -552,3 +552,4 @@ Fixed Activity at 2025-05-29T15:09:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-05-29T14:06:00: Docs: update API documentation and examples
 Fixed Activity at 2025-05-30T14:50:00: Style: improve code readability and formatting
 Fixed Activity at 2025-05-30T18:15:00: Refactor: simplify data transformation pipeline
+Fixed Activity at 2025-05-30T16:28:00: Refine: inference logic for edge devices
