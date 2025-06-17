@@ -611,3 +611,4 @@ Fixed Activity at 2025-06-17T10:39:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2025-06-17T20:59:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-06-17T14:32:00: Feature: add support for distributed processing
 Fixed Activity at 2025-06-17T18:03:00: Refactor: optimize performance in core module
+Fixed Activity at 2025-06-17T09:53:00: Fix: resolve memory leak in inference engine
