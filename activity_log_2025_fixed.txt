@@ -624,3 +624,4 @@ Fixed Activity at 2025-06-19T20:08:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-06-19T18:43:00: Docs: update API documentation and examples
 Fixed Activity at 2025-06-20T18:49:00: Optimize: data loading strategy
 Fixed Activity at 2025-06-20T14:45:00: Test: add unit tests for edge cases
+Fixed Activity at 2025-06-20T14:52:00: Refine: inference logic for edge devices
