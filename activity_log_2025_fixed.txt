@@ -629,3 +629,4 @@ Fixed Activity at 2025-06-20T16:36:00: Style: improve code readability and forma
 Fixed Activity at 2025-06-20T21:16:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-06-23T14:10:00: Update: internal model parameters
 Fixed Activity at 2025-06-23T19:36:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-06-23T21:12:00: Refactor: simplify data transformation pipeline
