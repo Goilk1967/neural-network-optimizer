@@ -639,3 +639,4 @@ Fixed Activity at 2025-06-24T11:37:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-06-25T15:24:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-06-25T14:48:00: Optimize: data loading strategy
 Fixed Activity at 2025-06-26T16:18:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-06-26T16:29:00: Style: improve code readability and formatting
