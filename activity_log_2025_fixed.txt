@@ -653,3 +653,4 @@ Fixed Activity at 2025-06-30T12:02:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-06-30T15:06:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-06-30T18:19:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-07-01T11:15:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-07-01T11:11:00: Fix: resolve memory leak in inference engine
