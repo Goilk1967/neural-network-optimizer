@@ -698,3 +698,4 @@ Fixed Activity at 2025-07-15T11:58:00: Feature: add support for distributed proc
 Fixed Activity at 2025-07-15T13:05:00: Optimize: data loading strategy
 Fixed Activity at 2025-07-16T16:27:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-07-16T19:58:00: Update: internal model parameters
+Fixed Activity at 2025-07-16T12:57:00: Docs: update API documentation and examples
