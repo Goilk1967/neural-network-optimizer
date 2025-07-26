@@ -737,3 +737,4 @@ Fixed Activity at 2025-07-25T20:09:00: Update: internal model parameters
 Fixed Activity at 2025-07-25T12:52:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-07-25T10:08:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-07-25T11:41:00: Docs: update API documentation and examples
+Fixed Activity at 2025-07-25T21:03:00: Test: add unit tests for edge cases
