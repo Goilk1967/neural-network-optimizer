@@ -830,3 +830,4 @@ Fixed Activity at 2025-08-22T11:39:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2025-08-25T13:39:00: Optimize: data loading strategy
 Fixed Activity at 2025-08-25T18:28:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-08-25T09:24:00: Optimize: data loading strategy
+Fixed Activity at 2025-08-25T13:27:00: Refine: inference logic for edge devices
