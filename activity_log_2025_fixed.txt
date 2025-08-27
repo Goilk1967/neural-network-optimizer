@@ -842,3 +842,4 @@ Fixed Activity at 2025-08-26T19:23:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-08-27T14:56:00: Optimize: data loading strategy
 Fixed Activity at 2025-08-27T15:41:00: Style: improve code readability and formatting
 Fixed Activity at 2025-08-27T18:52:00: Update: internal model parameters
+Fixed Activity at 2025-08-27T10:04:00: Test: add unit tests for edge cases
