@@ -939,3 +939,4 @@ Fixed Activity at 2025-09-24T18:14:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-09-24T10:54:00: Docs: update API documentation and examples
 Fixed Activity at 2025-09-25T15:49:00: Docs: update API documentation and examples
 Fixed Activity at 2025-09-25T15:27:00: Chore: update dependencies and build scripts
+Fixed Activity at 2025-09-25T19:55:00: Update: internal model parameters
