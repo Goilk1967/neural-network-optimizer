@@ -955,3 +955,4 @@ Fixed Activity at 2025-09-30T21:27:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-09-30T11:32:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-09-30T17:47:00: Style: improve code readability and formatting
 Fixed Activity at 2025-10-01T12:17:00: Test: add unit tests for edge cases
+Fixed Activity at 2025-10-01T13:08:00: Chore: update dependencies and build scripts
