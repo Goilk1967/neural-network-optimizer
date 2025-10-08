@@ -980,3 +980,4 @@ Fixed Activity at 2025-10-07T14:07:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2025-10-07T15:46:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-10-08T14:06:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-10-08T14:40:00: Optimize: data loading strategy
+Fixed Activity at 2025-10-08T18:23:00: Chore: update dependencies and build scripts
