@@ -986,3 +986,4 @@ Fixed Activity at 2025-10-09T21:54:00: Refactor: simplify data transformation pi
 Fixed Activity at 2025-10-09T21:13:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2025-10-09T15:37:00: Style: improve code readability and formatting
 Fixed Activity at 2025-10-10T15:07:00: Refactor: simplify data transformation pipeline
+Fixed Activity at 2025-10-10T19:27:00: Test: add unit tests for edge cases
