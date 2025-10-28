@@ -1041,3 +1041,4 @@ Fixed Activity at 2025-10-24T13:16:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-10-24T15:07:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-10-27T17:01:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-10-27T14:48:00: Update: internal model parameters
+Fixed Activity at 2025-10-28T19:58:00: Test: add unit tests for edge cases
