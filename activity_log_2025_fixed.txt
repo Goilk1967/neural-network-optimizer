@@ -1107,3 +1107,4 @@ Fixed Activity at 2025-11-13T15:18:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2025-11-14T10:37:00: Optimize: data loading strategy
 Fixed Activity at 2025-11-14T14:16:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-11-14T16:17:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-11-14T19:19:00: Test: add unit tests for edge cases
