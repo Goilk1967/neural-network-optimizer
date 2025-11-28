@@ -1151,3 +1151,4 @@ Fixed Activity at 2025-11-27T20:34:00: Refactor: optimize performance in core mo
 Fixed Activity at 2025-11-27T09:45:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-11-27T12:40:00: Update: internal model parameters
 Fixed Activity at 2025-11-27T11:57:00: Update: internal model parameters
+Fixed Activity at 2025-11-27T20:00:00: Refine: inference logic for edge devices
