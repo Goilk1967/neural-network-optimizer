@@ -1185,3 +1185,4 @@ Fixed Activity at 2025-12-05T16:24:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2025-12-05T18:51:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-12-05T15:04:00: Docs: update API documentation and examples
 Fixed Activity at 2025-12-05T13:21:00: Docs: update API documentation and examples
+Fixed Activity at 2025-12-08T13:41:00: Chore: update dependencies and build scripts
