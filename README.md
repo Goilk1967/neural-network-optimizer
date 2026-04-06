@@ -2,3 +2,4 @@
 # Optimized Inference
 yolo
 pair
+Badge Trigger
